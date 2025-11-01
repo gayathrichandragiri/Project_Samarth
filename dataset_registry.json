@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Sub\u2011Divisional Monthly Rainfall (sample)",
+    "url": "file://data_files/sample_rainfall.csv"
+  },
+  {
+    "title": "District Crop Production (sample)",
+    "url": "file://data_files/sample_crop_production.csv"
+  }
+]

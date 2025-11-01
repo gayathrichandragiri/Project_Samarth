@@ -1,0 +1,3 @@
+Compare the average annual rainfall in Karnataka and Tamil Nadu for the last 3 years and list the top 2 most produced crops of all types in each state.
+Identify the district in Karnataka with the highest production of Rice in the most recent year available and compare that with district with lowest production of Rice in Tamil Nadu.
+Analyze the production trend of Maize in the Southern region over the last 10 years and correlate with rainfall.
