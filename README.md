@@ -27,4 +27,4 @@ gunicorn app:app
 ## Notes
 - The included datasets of real data.gov.in datasets for demo purposes.
 - The QA engine implements simple heuristics to answer comparisons and top-k queries and always returns citations pointing to the sample CSV files.
-- Replace dataset URLs in `dataset_registry.json` with real data.gov.in CSV URLs when moving to live mode.
+- Replace dataset URLs in `dataset_registry.json` with real data.gov.in CSV URLs when moving to another dataset or live mode.
